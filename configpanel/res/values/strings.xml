@@ -77,6 +77,7 @@
 
     <!-- Button settings -->
     <string name="button_panel_title">Additional buttons</string>
+    <string name="button_panel_dashboard_summary">Manage notification slider buttons</string>
     <string name="button_swap_title">Swap buttons</string>
     <string name="button_swap_summary">Swap the order of recents and back buttons</string>
 
